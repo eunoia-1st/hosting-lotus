@@ -1,0 +1,5 @@
+/* Warna merah Lotus untuk header tabel */
+.table-red thead {
+    background-color: #a33336; /* merah elegan */
+    color: #fff;
+}
